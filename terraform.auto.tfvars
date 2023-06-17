@@ -1,1 +1,1 @@
-main_vpc_cidr = "10.40.0.0/16"
+main_vpc_cidr = "10.70.0.0/16"
