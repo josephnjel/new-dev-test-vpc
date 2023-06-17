@@ -1,12 +1,12 @@
 terraform {
 
-  cloud {
-    organization = "nexah"
+  # cloud {
+  #   organization = "nexah"
 
-    workspaces {
-      name = "new-dev-test-vpc"
-    }
-  }
+  #   workspaces {
+  #     name = "new-dev-test-vpc"
+  #   }
+  # }
 
   required_providers {
     aws = {
